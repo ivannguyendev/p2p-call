@@ -37,6 +37,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",
+    "~/modules/p2p-call.module"
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

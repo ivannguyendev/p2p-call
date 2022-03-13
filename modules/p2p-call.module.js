@@ -60,4 +60,4 @@ export default async function P2PCallModule(moduleOptions) {
   // })
 }
 
-module.exports.meta = require('./package.json')
+module.exports.meta = require('../package.json')
